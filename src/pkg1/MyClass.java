@@ -5,5 +5,9 @@ public class MyClass {
 	 {
 	 	System.out.println("Hello"); 
 	 }	
+	 public void diff()
+	 {
+	 	System.out.println("Difference"); 
+	 }	
 
 }
